@@ -46,6 +46,6 @@ A recipe website tailored for fitness enthusiasts, offering calorie and nutritio
 ---
 
 ### 📑 Resume  
-[Download my resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+[Download my resume]()
 
 ---
