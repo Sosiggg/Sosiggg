@@ -24,7 +24,7 @@ I am a front-end developer and student, passionate about building user-friendly,
 
 ### 🚀 Projects
 
-**[TORI](https://github.com/ivi-susej/TORI)**  
+**[TORI](https://github.com/Biltin108010/Techno2.0)**  
 A collaborative inventory management system designed for booth vendors. It features role-based access, mobile accessibility, and automatic sales tracking.
 
 **[Fitness Feast](https://github.com/Sosiggg/fitnessfeast)**  
