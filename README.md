@@ -8,8 +8,7 @@ I am a front-end developer and student, passionate about building user-friendly,
 ---
 
 ### 📚 About Me
-- 🌱 Currently learning **React Native**.
-- 🛠️ I am working on **TORI**, a collaborative inventory management system.
+- 🛠️ I am working on **SmarTanom**, a solar-powered environmental monitoring device that uses an ESP32 microcontroller to collect real-time data on water and air quality, temperature, humidity, light, and water levels. It helps track environmental conditions efficiently using multiple sensors.
 - 🌐 Check out my [GitHub](https://github.com/Sosiggg?tab=repositories) for my projects.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ivi-susej-marie-salas-389383344/).
 
