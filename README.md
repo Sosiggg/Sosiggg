@@ -15,13 +15,17 @@ I am a front-end developer and student, passionate about building user-friendly,
 ---
 
 ### 💻 Skills
-- **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frameworks & Libraries**: React.js, React Native, Node.js
-- **Tools**: Expo, Figma, Sass
+- **Languages**: JavaScript, TypeScript, HTML, CSS, Python, Dart (Flutter),
+- **Frameworks & Libraries**: React.js, React Native, Node.js, Express.js, Tailwind CSS, Sass,
+- **Tools & Platforms**: Expo, Figma, Supabase, Firebase, Git, Arduino IDE, ESP32 DevKit
+- **Other**: REST APIs, I2C/SPI sensor integration, IoT (ESP32 projects), Inventory & POS system design, Data visualization (Recharts)
 
 ---
 
 ### 🚀 Projects
+
+**[SmarTanom](https://github.com/SmarTanom)**  
+A solar-powered environmental monitoring device that uses an ESP32 microcontroller to collect real-time data on water and air quality, temperature, humidity, light, and water levels. It helps track environmental conditions efficiently using multiple sensors.
 
 **[TORI](https://github.com/Biltin108010/Techno2.0)**  
 A collaborative inventory management system designed for booth vendors. It features role-based access, mobile accessibility, and automatic sales tracking.
