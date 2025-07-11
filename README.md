@@ -1,41 +1,36 @@
-## Hello, I'm Ivi Susej Marie E. Salas 👋🏻
-<a href='https://www.linkedin.com/in/ivi-susej-marie-salas-389383344/'><img align='left' alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="20px"/></a>
+# Hello, I'm Ivi Susej Marie E. Salas 👋🏻
+<a href='https://www.linkedin.com/in/ivi-susej-marie-salas-389383344/'><img align='left' alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="20px"/></a> <img src="https://komarev.com/ghpvc/?username=sosiggg&style=flat-square&color=1a1b26" alt="Profile views" />
 <br/>
 <br/>
 I am a front-end developer currently studying at University of Science and Technology of Southern Philippine, passionate about building user-friendly, responsive, and dynamic web applications. I specialize in **JavaScript**, **React**, and **Flutter**, with a focus on creating high-quality, scalable, and efficient applications.
 
 ---
 
-### 📚 About Me
+## 📚 About Me
 - 🛠️ I am currently working on **SmarTanom**, a solar-powered environmental monitoring device that uses an ESP32 microcontroller to collect real-time data on water and air quality, temperature, humidity, light, and water levels. It helps track environmental conditions efficiently using multiple sensors.
 - 🌐 Check out my [GitHub](https://github.com/Sosiggg?tab=repositories) for my projects.
 - 📧 Reach me at [salas.ivisusej@gmail.com](mailto:salas.ivisusej@gmail.com)
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ivi-susej-marie-salas-389383344/).
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ivi-susej-marie-salas-389383344/)
 
 ---
 
-### 💻 Skills
-- **Languages**: JavaScript, TypeScript, HTML, CSS, Python, Dart (Flutter),
-- **Frameworks & Libraries**: React.js, React Native, Node.js, Express.js, Tailwind CSS, Sass,
+## 💻 Skills
+- **Languages**: JavaScript, TypeScript, HTML, CSS, Python, Dart (Flutter)
+- **Frameworks & Libraries**: React.js, React Native, Node.js, Express.js, Tailwind CSS, Sass
 - **Tools & Platforms**: Expo, Figma, Supabase, Firebase, Git, Arduino IDE, ESP32 DevKit
 - **Other**: REST APIs, I2C/SPI sensor integration, IoT (ESP32 projects), Inventory & POS system design, Data visualization (Recharts)
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
-**[SmarTanom](https://github.com/SmarTanom)**  
-A solar-powered environmental monitoring device that uses an ESP32 microcontroller to collect real-time data on water and air quality, temperature, humidity, light, and water levels. It helps track environmental conditions efficiently using multiple sensors.
-
-**[TORI](https://github.com/Biltin108010/Techno2.0)**  
-A collaborative inventory management system designed for booth vendors. It features role-based access, mobile accessibility, and automatic sales tracking.
-
-**[Fitness Feast](https://github.com/Sosiggg/fitnessfeast)**  
-A recipe website tailored for fitness enthusiasts, offering calorie and nutritional information with fitness goal-based categories.
+- 🌿 [**SmarTanom**](https://github.com/SmarTanom) – ESP32-powered smart environmental tracker  
+- 📦 [**TORI**](https://github.com/Biltin108010/Techno2.0) – Inventory & POS system for event vendors  
+- 🥗 [**Fitness Feast**](https://github.com/Sosiggg/fitnessfeast) – Fitness-friendly recipe catalog with nutrition facts
 
 ---
 
-### 🛠️ Languages and Tools I Use
+## 🛠️ Languages and Tools I Use
  ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
  ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -48,12 +43,41 @@ A recipe website tailored for fitness enthusiasts, offering calorie and nutritio
 
 ---
 
-### 📑 Resume  
+## 📑 Resume  
 [Download my resume]()
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sosiggg&show_icons=true&locale=en&layout=compact" alt="sosiggg" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sosiggg&show_icons=true&locale=en" alt="sosiggg" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sosiggg&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sosiggg&show_icons=true&locale=en&theme=tokyonight" width="400" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sosiggg&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sosiggg&theme=tokyonight&column=8&margin-w=5" alt="Trophies" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sosiggg&bg_color=1a1b26&color=7aa2f7&line=7dcfff&point=9ece6a&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+
 
