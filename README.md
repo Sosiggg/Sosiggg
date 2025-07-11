@@ -77,6 +77,10 @@ I am a front-end developer currently studying at University of Science and Techn
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sosiggg&bg_color=1a1b26&color=7aa2f7&line=7dcfff&point=9ece6a&area=true&hide_border=true" alt="Contribution Graph" />
+
+---
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 </p>
 
 
