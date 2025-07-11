@@ -1,5 +1,5 @@
 # Hello, I'm Ivi Susej Marie E. Salas 👋🏻
-<a href='https://www.linkedin.com/in/ivi-susej-marie-salas-389383344/'><img align='left' alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="20px"/></a> <img src="https://komarev.com/ghpvc/?username=sosiggg&style=flat-square&color=1a1b26" alt="Profile views" />
+<a href='https://www.linkedin.com/in/ivi-susej-marie-salas-389383344/'><img align='left' alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="20px"/></a><img src="https://komarev.com/ghpvc/?username=sosiggg&style=flat-square&color=1a1b26" alt="Profile views" />
 <br/>
 <br/>
 I am a front-end developer currently studying at University of Science and Technology of Southern Philippine, passionate about building user-friendly, responsive, and dynamic web applications. I specialize in **JavaScript**, **React**, and **Flutter**, with a focus on creating high-quality, scalable, and efficient applications.
