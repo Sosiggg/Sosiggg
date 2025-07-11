@@ -1,14 +1,14 @@
-## Ivi Susej Marie E. Salas
+## Hello, I'm Ivi Susej Marie E. Salas 👋🏻
 <a href='https://www.linkedin.com/in/ivi-susej-marie-salas-389383344/'><img align='left' alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="20px"/></a>
 <br/>
 <br/>
 
-I am a front-end developer and student, passionate about building user-friendly, responsive, and dynamic web applications. I specialize in **JavaScript**, **React**, and **TypeScript**, with a focus on creating high-quality, scalable, and efficient applications.
+I am a front-end developer currently studying at University of Science and Technology of Southern Philippine, passionate about building user-friendly, responsive, and dynamic web applications. I specialize in **JavaScript**, **React**, and **Flutter**, with a focus on creating high-quality, scalable, and efficient applications.
 
 ---
 
 ### 📚 About Me
-- 🛠️ I am working on **SmarTanom**, a solar-powered environmental monitoring device that uses an ESP32 microcontroller to collect real-time data on water and air quality, temperature, humidity, light, and water levels. It helps track environmental conditions efficiently using multiple sensors.
+- 🛠️ I am currently working on **SmarTanom**, a solar-powered environmental monitoring device that uses an ESP32 microcontroller to collect real-time data on water and air quality, temperature, humidity, light, and water levels. It helps track environmental conditions efficiently using multiple sensors.
 - 🌐 Check out my [GitHub](https://github.com/Sosiggg?tab=repositories) for my projects.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ivi-susej-marie-salas-389383344/).
 
@@ -52,3 +52,8 @@ A recipe website tailored for fitness enthusiasts, offering calorie and nutritio
 [Download my resume]()
 
 ---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sosiggg&show_icons=true&locale=en&layout=compact" alt="sosiggg" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sosiggg&show_icons=true&locale=en" alt="sosiggg" /></p>
+
