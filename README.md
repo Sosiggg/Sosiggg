@@ -44,7 +44,7 @@ I am a front-end developer currently studying at University of Science and Techn
 ---
 
 ## 📑 Resume  
-[Download my resume]()
+- [Download my resume]()
 
 ---
 
