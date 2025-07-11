@@ -7,7 +7,7 @@ I am a front-end developer currently studying at University of Science and Techn
 ---
 
 ## 📚 About Me
-- 🛠️ I am currently working on **SmarTanom**, a solar-powered environmental monitoring device that uses an ESP32 microcontroller to collect real-time data on water and air quality, temperature, humidity, light, and water levels. It helps track environmental conditions efficiently using multiple sensors.
+- 🛠️ I am currently working on [**SmarTanom**](https://github.com/SmarTanom), a solar-powered environmental monitoring device that uses an ESP32 microcontroller to collect real-time data on water and air quality, temperature, humidity, light, and water levels. It helps track environmental conditions efficiently using multiple sensors.
 - 🌐 Check out my [GitHub Repo](https://github.com/Sosiggg?tab=repositories) for my projects.
 - 📧 Reach me at [Gmail](mailto:salas.ivisusej@gmail.com).
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ivi-susej-marie-salas-389383344/).
