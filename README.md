@@ -4,7 +4,7 @@
 <br/>
 I am an aspiring Web Developer currently studying at the University of Science and Technology of Southern Philippines. I’m passionate about creating user-friendly, responsive, and dynamic web applications that deliver seamless user experiences.
 
-With a strong foundation in JavaScript, React, and Flutter, I focus on building high-quality, scalable, and efficient applications. I continuously strive to enhance my skills and stay updated with modern web technologies to bring innovative ideas to life through clean, maintainable code.
+With a foundation in JavaScript, React, and Flutter, I focus on building high-quality, scalable, and efficient applications. I continuously strive to enhance my skills and stay updated with modern web technologies to bring innovative ideas to life through clean, maintainable code.
 
 ---
 
