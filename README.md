@@ -10,7 +10,7 @@ With a foundation in JavaScript, React, and Flutter, I focus on building high-qu
 
 ## 📚 About Me
 - 🛠️ I am currently working on [**SmarTanom**](https://github.com/SmarTanom), a solar-powered environmental monitoring device that uses an ESP32 microcontroller to collect real-time data on water and air quality, temperature, humidity, light, and water levels. It helps track environmental conditions efficiently using multiple sensors.
-- 🌐 Check out my [GitHub Repo](https://github.com/Sosiggg?tab=repositories) for my projects.
+- 🌐 Check out my [Web Portfolio](https://ivisalas.netlify.app).
 - 📧 Reach me at [Gmail](mailto:salas.ivisusej@gmail.com).
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ivi-susej-marie-salas-389383344/).
 
@@ -55,16 +55,17 @@ With a foundation in JavaScript, React, and Flutter, I focus on building high-qu
 ---
 
 ## 📑 Resume  
-- [Download my resume]()
+- [📄 Resume ](https://github.com/Sosiggg/ivi-salas-portfolio/raw/main/public/IviSalas_CV.pdf)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sosiggg&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="400" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=sosiggg&show_icons=true&locale=en&theme=tokyonight" width="400" alt="GitHub Stats" />
-</p>
+</div>
+
 
 ---
 
