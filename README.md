@@ -61,10 +61,10 @@ With a foundation in JavaScript, React, and Flutter, I focus on building high-qu
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sosiggg&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="400" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sosiggg&show_icons=true&locale=en&theme=tokyonight" width="400" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sosiggg&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="350" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sosiggg&show_icons=true&locale=en&theme=tokyonight" width="350" alt="GitHub Stats" />
+</p>
 
 
 ---
