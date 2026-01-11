@@ -62,8 +62,8 @@ With a foundation in JavaScript, React, and Flutter, I focus on building high-qu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sosiggg&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="350" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sosiggg&show_icons=true&locale=en&theme=tokyonight" width="350" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sosiggg&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="350" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sosiggg&show_icons=true&locale=en&theme=tokyonight" width="350" alt="GitHub Stats" />
 </p>
 
 
@@ -72,7 +72,7 @@ With a foundation in JavaScript, React, and Flutter, I focus on building high-qu
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sosiggg&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sosiggg&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
@@ -80,7 +80,7 @@ With a foundation in JavaScript, React, and Flutter, I focus on building high-qu
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sosiggg&theme=tokyonight&column=8&margin-w=5" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sosiggg&theme=tokyonight&column=4&margin-w=5" alt="Trophies" />
 </p>
 
 ---
